@@ -1304,14 +1304,15 @@ audio {
         background-color: #466baf;
     }
 
-.img-sam-1{
+.img-sam{
 	max-width: 200px;
 	position: absolute;
 	left: 50%;
+	top: 40px;
 	transform:translate(-50%,-500px);
 }
 
-.img-sam-1-come{
+.img-sam-come{
 	animation: bannar_sam linear 6s;
 	transform: translate(-50%, 0);
 }
